@@ -28,9 +28,11 @@ body {
 .heading {
   padding-top: 50px;
   font-family: "Big Shoulders Display", cursive;
+  text-align: center;
+  font-size: 40px;
 }
 .container {
-  margin-top: 80px;
+  margin-top: 50px;
   width: 900px;
   display: flex;
   flex-direction: row;
